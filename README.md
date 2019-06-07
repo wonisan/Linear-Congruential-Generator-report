@@ -7,6 +7,7 @@ This README.md is wittern in Japanese.
 　持っている人向けに、作られています。<br>
 　持ってない人は、自力で確認するなりしてください。<br>
 　私に質問されても一切回答しません。<br>
+ <追記>もしかしたら、一般の人にもわかるように修正するかもしれません。<br>
 
 ## Directory Structure
 指導書の番号と対応しています。<br>
